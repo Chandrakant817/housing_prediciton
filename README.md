@@ -165,4 +165,6 @@ Basic Project CI/CD setup completed.
 
 initialize_model()
 
+### Final Output:
+![image](https://user-images.githubusercontent.com/69152112/217007292-80d66bcb-fc94-46ad-8b30-48afb980b5a3.png)
 
